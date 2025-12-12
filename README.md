@@ -132,10 +132,11 @@ classDiagram
 ### Tampilan
 
 **Tampilan Gameplay Utama**
-![Gameplay](<img width="446" height="832" alt="image" src="https://github.com/user-attachments/assets/dd8015de-c744-4620-9031-a78664f8fc5f" />)
+![Image](https://github.com/user-attachments/assets/342df4de-8e47-4e9e-a125-2feb5f70a3fc)
+
 
 **Dialog Game Over**
-![Game Over](<img width="441" height="833" alt="image" src="https://github.com/user-attachments/assets/4aeccf3f-62bc-4052-8225-62ff7709ec61" />)
+![Image](https://github.com/user-attachments/assets/ebe2e481-4f44-4115-b24c-9487ff82d8af)
 
 ### Fitur Teknis
 - **Smooth Animation**: Game loop berjalan pada 60 FPS
