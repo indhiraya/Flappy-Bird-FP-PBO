@@ -133,11 +133,9 @@ classDiagram
 
 **Tampilan Gameplay Utama**
 ![Gameplay](<img width="446" height="832" alt="image" src="https://github.com/user-attachments/assets/dd8015de-c744-4620-9031-a78664f8fc5f" />)
-> Screenshot menampilkan burung yang sedang terbang melewati pipa-pipa hijau dengan background langit biru
 
 **Dialog Game Over**
 ![Game Over](<img width="441" height="833" alt="image" src="https://github.com/user-attachments/assets/4aeccf3f-62bc-4052-8225-62ff7709ec61" />)
-> Dialog Game Over menampilkan skor akhir dengan tombol Restart dan Quit yang elegan
 
 ### Fitur Teknis
 - **Smooth Animation**: Game loop berjalan pada 60 FPS
